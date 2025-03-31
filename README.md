@@ -1,7 +1,14 @@
 # section-B
+str.capitalize
 
-the string .upper changes every letter given to uppercase 
+    It changes the first letter of any word to capital and the rest to small letters
 
-the string .lower changes every letter to lower case
 
-the string .title gives the given word a title format, which is the first letter will be capitalized and the others will be in small letters
+str.swapcase
+
+    this changes any capital to small and small to capital letters
+
+
+str.split
+
+    thsi will split every given word and give us in the format of a list
