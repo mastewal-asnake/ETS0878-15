@@ -1,4 +1,5 @@
-word = 'happy'
-print(word.count('p'))
+itens = ["pen", "pencil", "paper", "pen"]
+Noofpen = itens.count("pen")
+print(Noofpen)
 
-#output will be 2
+#counts number of pen
